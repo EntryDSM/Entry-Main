@@ -31,7 +31,6 @@ const Wrapper = styled.section<{ background: string }>`
 `;
 
 const ContentLayout = styled.div`
-  width: 1220px;
   display: flex;
   gap: 15px;
   flex-direction: column;

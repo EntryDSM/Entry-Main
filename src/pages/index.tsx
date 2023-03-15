@@ -15,8 +15,8 @@ const Main = () => {
   const [faqs, setFaqs] = useState([]);
 
   const youtubeOptions = {
-    width: "1220",
-    height: "685",
+    width: 976,
+    height: 548,
   };
 
   useEffect(() => {
